@@ -57,9 +57,11 @@ jwt = JsonWebToken(
         "ES256",
         "ES384",
         "ES512",
+        "ES256K",
         "PS256",
         "PS384",
         "PS512",
+        "EdDSA",
     ]
 )
 
